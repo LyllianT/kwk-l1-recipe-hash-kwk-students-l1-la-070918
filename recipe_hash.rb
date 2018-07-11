@@ -14,7 +14,9 @@
 # All of the ingredients should be symbols and the amounts should be strings. Remember that symbols start with a colon and be sure to sub underscores for spaces.
 
 perfect_10_recipe = [
-  :almond_flour  ]
+  :almond_flour => "2 cup" 
+  :gluten_freewhole_oats => "1 cup"
+  :kosher_salt => "1/2 tea spoon"]
   
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
